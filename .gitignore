@@ -1,0 +1,7 @@
+# Local tool and session files: not part of the project, never uploaded
+.anchor/
+.claude/
+.governor/
+.harnesskit/
+.playwright-mcp/
+.claude-designlog-hooks.log
